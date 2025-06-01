@@ -1,6 +1,6 @@
 # Про мене
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=402A8D&width=435&lines=Hi+;I+am+Ivan;I+am+studying+Python+;I+use+Arch+Linux+;I+like+Linux;Creating+a+bot+in+Telegram+is+easy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D0E79&random=true&width=435&lines=Hi+I'm+Ivan;I+am+a+beginner+programmer;My+favorite+style+of+music+is+hardstyle;I'm+learning+C;thanks+for+visiting+the+profile)](https://git.io/typing-svg)
 
 ## Мої інтереси та інструменти
 
