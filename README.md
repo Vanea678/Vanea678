@@ -1,4 +1,4 @@
-# 👨‍💻 Профиль Ивана
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D0E79&random=true&width=435&lines=Junior+Software+Developer;Focused+on+System+Programming+and+Web+Tech;Enthusiast+of+C%2FHardstyle%2FOpenSource;Ready+for+new+challenges)](https://git.io/typing-svg)
 
